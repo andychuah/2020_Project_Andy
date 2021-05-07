@@ -8,3 +8,7 @@ So here am I doing this project to help the beginner in programming from this pr
 
 主要通過設計一個GUI介面，其中包含輸入和輸出區及程式碼編譯區，讓使用者在可以更直覺的操作並使用這個平台。
 To let the user can easily operate the project by implementing a GUI interface, including text area, code area and compile area.
+
+使用語言：Python 3.8
+環境：Visual Studio Code
+
